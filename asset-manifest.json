@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.183e06fd.css",
+    "main.js": "/myPortfolio/static/js/main.37816b73.js",
+    "static/media/remixicon.svg?t=1708865856766": "/myPortfolio/static/media/remixicon.7735fab8dbf8ff78afe9.svg",
+    "static/media/trisha.png": "/myPortfolio/static/media/trisha.ebb494c9769f7f3841c6.png",
+    "static/media/remixicon.eot?t=1708865856766": "/myPortfolio/static/media/remixicon.8542c1bb279bcd77063a.eot",
+    "static/media/remixicon.ttf?t=1708865856766": "/myPortfolio/static/media/remixicon.4c942de19d980993f612.ttf",
+    "static/media/remixicon.woff?t=1708865856766": "/myPortfolio/static/media/remixicon.28ceff39ee3e17dc99db.woff",
+    "static/media/remixicon.woff2?t=1708865856766": "/myPortfolio/static/media/remixicon.39f4def56d0e8712909a.woff2",
+    "static/media/portfolio-04.jpg": "/myPortfolio/static/media/portfolio-04.f6c8bdb61004c5d3160e.jpg",
+    "static/media/portfolio-06.jpg": "/myPortfolio/static/media/portfolio-06.40c42a488e1dbafcea4b.jpg",
+    "static/media/portfolio-05.jpg": "/myPortfolio/static/media/portfolio-05.306ede427cedde3d4c45.jpg",
+    "static/media/portfolio-09.jpg": "/myPortfolio/static/media/portfolio-09.b88911dfe52cfa15b94f.jpg",
+    "static/media/portfolio-02.jpg": "/myPortfolio/static/media/portfolio-02.d5932a3bd3cd5cf24e3a.jpg",
+    "static/media/portfolio-01.jpg": "/myPortfolio/static/media/portfolio-01.d4deca6b19e8b325e358.jpg",
+    "static/media/portfolio-08.jpg": "/myPortfolio/static/media/portfolio-08.94ce22e6f6d44a41e9f7.jpg",
+    "static/media/portfolio-07.jpg": "/myPortfolio/static/media/portfolio-07.c0dd386a511e3471eb22.jpg",
+    "static/media/portfolio-03.jpg": "/myPortfolio/static/media/portfolio-03.773a9fa783ea152a6c18.jpg",
+    "index.html": "/myPortfolio/index.html",
+    "main.183e06fd.css.map": "/myPortfolio/static/css/main.183e06fd.css.map",
+    "main.37816b73.js.map": "/myPortfolio/static/js/main.37816b73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.183e06fd.css",
+    "static/js/main.37816b73.js"
+  ]
+}
